@@ -1,0 +1,18 @@
+EDI1:
+    errorFolder: "//ediweb1.directedi.com/D$/EDIBox/__ICCDownloadErrors"
+    archiveFolder: "//ediweb1.directedi.com/D$/EDIBox/__ICCDownloadErrors/Processed"
+    prodFolder: "D:/ICCBox/X12"
+
+EDI2:
+    errorFolder: "D:/ICCBox/X12/Errors"
+    archiveFolder: "D:/ICCBox/X12/Processed"
+    prodFolder: "D:/ICCBox/X12"
+
+Cridentions:
+    login: "?"
+    password: "?"
+    properties:
+      mail.store.protocol: "imaps"
+      mail.imap.host: "?"
+      mail.imap.port: "?"
+      mail.imap.auth: "true"
